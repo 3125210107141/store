@@ -1,0 +1,11 @@
+#cc{
+    border-style: solid;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(212, 188, 235);
+    border-color: black;
+    justify-content: center;
+    text-align: center;
+    
+    box-shadow: 0.5rem;
+}
